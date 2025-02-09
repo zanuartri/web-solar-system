@@ -36,7 +36,13 @@ function App() {
         planetName={planetName}
       />
       <button className="absolute bottom-4 right-4 text-white/50 hover:text-white/70 hover:cursor-pointer p-4">
-        <FaGithub size={32} />
+        <a
+          href="https://github.com/zanuartri/web-solar-system"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaGithub size={32} />
+        </a>
       </button>
     </div>
   );
