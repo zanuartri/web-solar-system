@@ -15,7 +15,7 @@ Web Solar System adalah simulasi interaktif tata surya berbasis web yang dikemba
 ## 🌍 Demo Online
 
 🔗 **Coba langsung di sini:**  
-[🌐 solarsystem.zanuar.vercel.app](https://solarsystem.zanuar.vercel.app)
+[🌐 web-solar-system.vercel.app](https://web-solar-system.vercel.app)
 
 ## 🛠️ Teknologi yang Digunakan
 
